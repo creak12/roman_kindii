@@ -1,2 +1,0 @@
-# roman_kindii
-homework
